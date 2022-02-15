@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/71033672/154047139-abc01392-6abe-4513-a6bd-bb81bf98b302.mp4
-
 # Global-Wheat-Detection-Using-YOLOv5
 Use of deep learning to detect wheat heads from crops.
 
@@ -34,10 +30,9 @@ We have trained yolov5 model on this dataset. Training is perfomed on google col
 
 ## Input to the Model : 
 ![53f253011](https://user-images.githubusercontent.com/71933031/153757117-372266ab-06eb-47f7-ae7f-ecdb7551cbaf.jpg)
-![cb8d261a3](https://user-images.githubusercontent.com/71933031/153757120-2dfa1588-840b-4fad-89b2-d0ec9bd69d43.jpg)
 
-## WORKING
+## Output
 ![download](https://user-images.githubusercontent.com/71933031/153757124-c88d0465-3387-4798-98d8-5a39dad766c0.jpg)
 
-## Working Demonstration
-https://user-images.githubusercontent.com/71933031/153767469-3af0a3b4-c4ca-45b8-a8ae-93ab4b914ed7.mp4
+## Demonstration
+https://user-images.githubusercontent.com/71033672/154047139-abc01392-6abe-4513-a6bd-bb81bf98b302.mp4
