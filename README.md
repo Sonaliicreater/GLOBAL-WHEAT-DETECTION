@@ -1,4 +1,4 @@
-# Global-Wheat-Detection
+# GLOBAL-WHEAT-DETECTION
 Use of deep learning to detect wheat heads from crops.
 
 The project is based on this Kaggle Competition: https://www.kaggle.com/c/global-wheat-detection.
